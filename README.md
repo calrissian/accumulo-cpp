@@ -1,7 +1,7 @@
 Accumulo++
 ==========
 
-A C++ library for Apache Accumulo
+A C++ library for Apache Accumulo. The API is incomplete thus far but provides enough of the very basic calls through the proxy API to exemplify what the full solution may look like. If you are interested in contributing, please don't hesitate to contact Corey Nolet (cjnolet@gmail.com)
 
 ## Why a C++ Library for Accumulo?
 
